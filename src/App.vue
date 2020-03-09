@@ -9,7 +9,4 @@ export default {
 };
 </script>
 
-<style>
-#app {
-}
-</style>
+<style></style>
